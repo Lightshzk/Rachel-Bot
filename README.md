@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://i.imgur.com/your-rachel-image.png" alt="Rachel Bot" width="200"/>
+<img src="[https://i.imgur.com/your-rachel-image.png" alt="Rachel Bot" width="200](https://staticg.sportskeeda.com/editor/2023/07/61e0d-16882910106941-1920.jpg)"/>
 
 ![GitHub stars](https://img.shields.io/github/stars/Lightshzk/Rachel-Bot?style=for-the-badge&color=purple)
 ![GitHub forks](https://img.shields.io/github/forks/Lightshzk/Rachel-Bot?style=for-the-badge&color=blue)
